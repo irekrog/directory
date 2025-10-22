@@ -17738,5 +17738,15 @@
     ],
     "ios": true,
     "android": true
+  },
+    {
+    "githubUrl": "https://github.com/irekrog/react-native-torch-nitro",
+    "npmPkg": "react-native-torch-nitro",
+    "examples": [
+      "https://github.com/irekrog/react-native-torch-nitro/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "newArchitecture": true
   }
 ]
